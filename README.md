@@ -103,3 +103,12 @@ sudo a2ensite FlaskApp
 ```
 sudo service apache2 restart
 ```
+
+## Additional Resources
+
+- [Amazon Lightsail Documentation](https://docs.aws.amazon.com/lightsail/index.html#lang/en_us)
+- [How To Deploy a Flask Application on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+- [Deploying Applications with Heroku](https://eu.udacity.com/course/deploying-applications-with-heroku--ud272)
+- [How to change SSH port](https://forums.aws.amazon.com/thread.jspa?threadID=160352)
+- [UncomplicatedFirewall Documentation](https://wiki.ubuntu.com/UncomplicatedFirewall)
+- [Understanding public network ports and firewall settings in Amazon Lightsail](https://lightsail.aws.amazon.com/ls/docs/en/articles/understanding-firewall-and-port-mappings-in-amazon-lightsail)
